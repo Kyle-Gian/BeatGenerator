@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.vrtest-20280985.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "D:/PersonalProjects/VRTest/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "D:/GitHub/BeatGenerator/VRTest/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
